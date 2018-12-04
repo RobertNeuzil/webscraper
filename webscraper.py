@@ -1,22 +1,12 @@
-import sys
-from bs4 import BeautifulSoup
-import requests
+import os
 
-x = 360
-while x <= 1000:
-	
-	source = requests.get('https://jacksonville.craigslist.org/search/apa?s=' + str(x)).text
-	soup = BeautifulSoup(source, 'lxml')
-	listings = soup.find_all('a', class_='result-title hdrlnk')
-	
-	for y in listings:
-		file = open('webscraperlist.txt', 'w', encoding='UTF-8')
-		file.write(y.text + '\n')
-		
-	
-	file.close()	
-	x += 120
+# each website will create a new dir
 
+def create_project_dir(directory):
+	if not os.path.exists(directory):
+		print(f'Creating directory {directory}')
+		os.makedirs(directory)
+	else:
+		print ('that directory already exists')
 
-
-
+create_project_dir('robertest')
