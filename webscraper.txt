@@ -1,0 +1,2000 @@
+
+ The title of the book is 
+ "A Light in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+
+ The title of the book is 
+ "Tipping the Velvet" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+
+ The title of the book is 
+ "Soumission" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/soumission_998/index.html 
+
+ The title of the book is 
+ "Sharp Objects" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+
+ The title of the book is 
+ "Sapiens: A Brief History ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+
+ The title of the book is 
+ "The Requiem Red" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+
+ The title of the book is 
+ "The Dirty Little Secrets ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+
+ The title of the book is 
+ "The Coming Woman: A ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+
+ The title of the book is 
+ "The Boys in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+
+ The title of the book is 
+ "The Black Maria" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+
+ The title of the book is 
+ "Starving Hearts (Triangular Trade ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+
+ The title of the book is 
+ "Shakespeare's Sonnets" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+
+ The title of the book is 
+ "Set Me Free" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+
+ The title of the book is 
+ "Scott Pilgrim's Precious Little ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+
+ The title of the book is 
+ "Rip it Up and ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+
+ The title of the book is 
+ "Our Band Could Be ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+
+ The title of the book is 
+ "Olio" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/olio_984/index.html 
+
+ The title of the book is 
+ "Mesaerion: The Best Science ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+
+ The title of the book is 
+ "Libertarianism for Beginners" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+
+ The title of the book is 
+ "It's Only the Himalayas" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+
+ The title of the book is 
+ "A Light in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+
+ The title of the book is 
+ "Tipping the Velvet" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+
+ The title of the book is 
+ "Soumission" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/soumission_998/index.html 
+
+ The title of the book is 
+ "Sharp Objects" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+
+ The title of the book is 
+ "Sapiens: A Brief History ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+
+ The title of the book is 
+ "The Requiem Red" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+
+ The title of the book is 
+ "The Dirty Little Secrets ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+
+ The title of the book is 
+ "The Coming Woman: A ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+
+ The title of the book is 
+ "The Boys in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+
+ The title of the book is 
+ "The Black Maria" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+
+ The title of the book is 
+ "Starving Hearts (Triangular Trade ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+
+ The title of the book is 
+ "Shakespeare's Sonnets" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+
+ The title of the book is 
+ "Set Me Free" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+
+ The title of the book is 
+ "Scott Pilgrim's Precious Little ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+
+ The title of the book is 
+ "Rip it Up and ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+
+ The title of the book is 
+ "Our Band Could Be ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+
+ The title of the book is 
+ "Olio" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/olio_984/index.html 
+
+ The title of the book is 
+ "Mesaerion: The Best Science ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+
+ The title of the book is 
+ "Libertarianism for Beginners" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+
+ The title of the book is 
+ "It's Only the Himalayas" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+
+ The title of the book is 
+ "A Light in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+
+ The title of the book is 
+ "Tipping the Velvet" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+
+ The title of the book is 
+ "Soumission" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/soumission_998/index.html 
+
+ The title of the book is 
+ "Sharp Objects" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+
+ The title of the book is 
+ "Sapiens: A Brief History ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+
+ The title of the book is 
+ "The Requiem Red" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+
+ The title of the book is 
+ "The Dirty Little Secrets ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+
+ The title of the book is 
+ "The Coming Woman: A ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+
+ The title of the book is 
+ "The Boys in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+
+ The title of the book is 
+ "The Black Maria" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+
+ The title of the book is 
+ "Starving Hearts (Triangular Trade ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+
+ The title of the book is 
+ "Shakespeare's Sonnets" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+
+ The title of the book is 
+ "Set Me Free" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+
+ The title of the book is 
+ "Scott Pilgrim's Precious Little ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+
+ The title of the book is 
+ "Rip it Up and ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+
+ The title of the book is 
+ "Our Band Could Be ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+
+ The title of the book is 
+ "Olio" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/olio_984/index.html 
+
+ The title of the book is 
+ "Mesaerion: The Best Science ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+
+ The title of the book is 
+ "Libertarianism for Beginners" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+
+ The title of the book is 
+ "It's Only the Himalayas" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+
+ The title of the book is 
+ "A Light in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+
+ The title of the book is 
+ "Tipping the Velvet" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+
+ The title of the book is 
+ "Soumission" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/soumission_998/index.html 
+
+ The title of the book is 
+ "Sharp Objects" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+
+ The title of the book is 
+ "Sapiens: A Brief History ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+
+ The title of the book is 
+ "The Requiem Red" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+
+ The title of the book is 
+ "The Dirty Little Secrets ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+
+ The title of the book is 
+ "The Coming Woman: A ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+
+ The title of the book is 
+ "The Boys in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+
+ The title of the book is 
+ "The Black Maria" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+
+ The title of the book is 
+ "Starving Hearts (Triangular Trade ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+
+ The title of the book is 
+ "Shakespeare's Sonnets" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+
+ The title of the book is 
+ "Set Me Free" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+
+ The title of the book is 
+ "Scott Pilgrim's Precious Little ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+
+ The title of the book is 
+ "Rip it Up and ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+
+ The title of the book is 
+ "Our Band Could Be ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+
+ The title of the book is 
+ "Olio" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/olio_984/index.html 
+
+ The title of the book is 
+ "Mesaerion: The Best Science ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+
+ The title of the book is 
+ "Libertarianism for Beginners" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+
+ The title of the book is 
+ "It's Only the Himalayas" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+
+ The title of the book is 
+ "A Light in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+
+ The title of the book is 
+ "Tipping the Velvet" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+
+ The title of the book is 
+ "Soumission" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/soumission_998/index.html 
+
+ The title of the book is 
+ "Sharp Objects" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+
+ The title of the book is 
+ "Sapiens: A Brief History ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+
+ The title of the book is 
+ "The Requiem Red" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+
+ The title of the book is 
+ "The Dirty Little Secrets ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+
+ The title of the book is 
+ "The Coming Woman: A ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+
+ The title of the book is 
+ "The Boys in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+
+ The title of the book is 
+ "The Black Maria" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+
+ The title of the book is 
+ "Starving Hearts (Triangular Trade ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+
+ The title of the book is 
+ "Shakespeare's Sonnets" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+
+ The title of the book is 
+ "Set Me Free" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+
+ The title of the book is 
+ "Scott Pilgrim's Precious Little ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+
+ The title of the book is 
+ "Rip it Up and ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+
+ The title of the book is 
+ "Our Band Could Be ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+
+ The title of the book is 
+ "Olio" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/olio_984/index.html 
+
+ The title of the book is 
+ "Mesaerion: The Best Science ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+
+ The title of the book is 
+ "Libertarianism for Beginners" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+
+ The title of the book is 
+ "It's Only the Himalayas" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+
+ The title of the book is 
+ "A Light in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+
+ The title of the book is 
+ "Tipping the Velvet" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+
+ The title of the book is 
+ "Soumission" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/soumission_998/index.html 
+
+ The title of the book is 
+ "Sharp Objects" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+
+ The title of the book is 
+ "Sapiens: A Brief History ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+
+ The title of the book is 
+ "The Requiem Red" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+
+ The title of the book is 
+ "The Dirty Little Secrets ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+
+ The title of the book is 
+ "The Coming Woman: A ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+
+ The title of the book is 
+ "The Boys in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+
+ The title of the book is 
+ "The Black Maria" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+
+ The title of the book is 
+ "Starving Hearts (Triangular Trade ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+
+ The title of the book is 
+ "Shakespeare's Sonnets" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+
+ The title of the book is 
+ "Set Me Free" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+
+ The title of the book is 
+ "Scott Pilgrim's Precious Little ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+
+ The title of the book is 
+ "Rip it Up and ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+
+ The title of the book is 
+ "Our Band Could Be ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+
+ The title of the book is 
+ "Olio" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/olio_984/index.html 
+
+ The title of the book is 
+ "Mesaerion: The Best Science ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+
+ The title of the book is 
+ "Libertarianism for Beginners" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+
+ The title of the book is 
+ "It's Only the Himalayas" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+
+ The title of the book is 
+ "A Light in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+
+ The title of the book is 
+ "Tipping the Velvet" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+
+ The title of the book is 
+ "Soumission" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/soumission_998/index.html 
+
+ The title of the book is 
+ "Sharp Objects" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+
+ The title of the book is 
+ "Sapiens: A Brief History ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+
+ The title of the book is 
+ "The Requiem Red" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+
+ The title of the book is 
+ "The Dirty Little Secrets ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+
+ The title of the book is 
+ "The Coming Woman: A ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+
+ The title of the book is 
+ "The Boys in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+
+ The title of the book is 
+ "The Black Maria" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+
+ The title of the book is 
+ "Starving Hearts (Triangular Trade ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+
+ The title of the book is 
+ "Shakespeare's Sonnets" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+
+ The title of the book is 
+ "Set Me Free" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+
+ The title of the book is 
+ "Scott Pilgrim's Precious Little ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+
+ The title of the book is 
+ "Rip it Up and ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+
+ The title of the book is 
+ "Our Band Could Be ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+
+ The title of the book is 
+ "Olio" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/olio_984/index.html 
+
+ The title of the book is 
+ "Mesaerion: The Best Science ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+
+ The title of the book is 
+ "Libertarianism for Beginners" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+
+ The title of the book is 
+ "It's Only the Himalayas" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+
+ The title of the book is 
+ "A Light in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+
+ The title of the book is 
+ "Tipping the Velvet" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+
+ The title of the book is 
+ "Soumission" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/soumission_998/index.html 
+
+ The title of the book is 
+ "Sharp Objects" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+
+ The title of the book is 
+ "Sapiens: A Brief History ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+
+ The title of the book is 
+ "The Requiem Red" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+
+ The title of the book is 
+ "The Dirty Little Secrets ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+
+ The title of the book is 
+ "The Coming Woman: A ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+
+ The title of the book is 
+ "The Boys in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+
+ The title of the book is 
+ "The Black Maria" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+
+ The title of the book is 
+ "Starving Hearts (Triangular Trade ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+
+ The title of the book is 
+ "Shakespeare's Sonnets" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+
+ The title of the book is 
+ "Set Me Free" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+
+ The title of the book is 
+ "Scott Pilgrim's Precious Little ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+
+ The title of the book is 
+ "Rip it Up and ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+
+ The title of the book is 
+ "Our Band Could Be ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+
+ The title of the book is 
+ "Olio" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/olio_984/index.html 
+
+ The title of the book is 
+ "Mesaerion: The Best Science ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+
+ The title of the book is 
+ "Libertarianism for Beginners" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+
+ The title of the book is 
+ "It's Only the Himalayas" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+
+ The title of the book is 
+ "A Light in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+
+ The title of the book is 
+ "Tipping the Velvet" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+
+ The title of the book is 
+ "Soumission" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/soumission_998/index.html 
+
+ The title of the book is 
+ "Sharp Objects" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+
+ The title of the book is 
+ "Sapiens: A Brief History ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+
+ The title of the book is 
+ "The Requiem Red" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+
+ The title of the book is 
+ "The Dirty Little Secrets ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+
+ The title of the book is 
+ "The Coming Woman: A ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+
+ The title of the book is 
+ "The Boys in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+
+ The title of the book is 
+ "The Black Maria" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+
+ The title of the book is 
+ "Starving Hearts (Triangular Trade ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+
+ The title of the book is 
+ "Shakespeare's Sonnets" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+
+ The title of the book is 
+ "Set Me Free" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+
+ The title of the book is 
+ "Scott Pilgrim's Precious Little ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+
+ The title of the book is 
+ "Rip it Up and ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+
+ The title of the book is 
+ "Our Band Could Be ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+
+ The title of the book is 
+ "Olio" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/olio_984/index.html 
+
+ The title of the book is 
+ "Mesaerion: The Best Science ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+
+ The title of the book is 
+ "Libertarianism for Beginners" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+
+ The title of the book is 
+ "It's Only the Himalayas" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+
+ The title of the book is 
+ "A Light in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+
+ The title of the book is 
+ "Tipping the Velvet" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+
+ The title of the book is 
+ "Soumission" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/soumission_998/index.html 
+
+ The title of the book is 
+ "Sharp Objects" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+
+ The title of the book is 
+ "Sapiens: A Brief History ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+
+ The title of the book is 
+ "The Requiem Red" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+
+ The title of the book is 
+ "The Dirty Little Secrets ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+
+ The title of the book is 
+ "The Coming Woman: A ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+
+ The title of the book is 
+ "The Boys in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+
+ The title of the book is 
+ "The Black Maria" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+
+ The title of the book is 
+ "Starving Hearts (Triangular Trade ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+
+ The title of the book is 
+ "Shakespeare's Sonnets" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+
+ The title of the book is 
+ "Set Me Free" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+
+ The title of the book is 
+ "Scott Pilgrim's Precious Little ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+
+ The title of the book is 
+ "Rip it Up and ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+
+ The title of the book is 
+ "Our Band Could Be ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+
+ The title of the book is 
+ "Olio" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/olio_984/index.html 
+
+ The title of the book is 
+ "Mesaerion: The Best Science ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+
+ The title of the book is 
+ "Libertarianism for Beginners" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+
+ The title of the book is 
+ "It's Only the Himalayas" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+
+ The title of the book is 
+ "A Light in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+
+ The title of the book is 
+ "Tipping the Velvet" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+
+ The title of the book is 
+ "Soumission" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/soumission_998/index.html 
+
+ The title of the book is 
+ "Sharp Objects" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+
+ The title of the book is 
+ "Sapiens: A Brief History ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+
+ The title of the book is 
+ "The Requiem Red" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+
+ The title of the book is 
+ "The Dirty Little Secrets ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+
+ The title of the book is 
+ "The Coming Woman: A ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+
+ The title of the book is 
+ "The Boys in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+
+ The title of the book is 
+ "The Black Maria" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+
+ The title of the book is 
+ "Starving Hearts (Triangular Trade ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+
+ The title of the book is 
+ "Shakespeare's Sonnets" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+
+ The title of the book is 
+ "Set Me Free" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+
+ The title of the book is 
+ "Scott Pilgrim's Precious Little ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+
+ The title of the book is 
+ "Rip it Up and ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+
+ The title of the book is 
+ "Our Band Could Be ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+
+ The title of the book is 
+ "Olio" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/olio_984/index.html 
+
+ The title of the book is 
+ "Mesaerion: The Best Science ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+
+ The title of the book is 
+ "Libertarianism for Beginners" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+
+ The title of the book is 
+ "It's Only the Himalayas" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+
+ The title of the book is 
+ "A Light in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+
+ The title of the book is 
+ "Tipping the Velvet" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+
+ The title of the book is 
+ "Soumission" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/soumission_998/index.html 
+
+ The title of the book is 
+ "Sharp Objects" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+
+ The title of the book is 
+ "Sapiens: A Brief History ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+
+ The title of the book is 
+ "The Requiem Red" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+
+ The title of the book is 
+ "The Dirty Little Secrets ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+
+ The title of the book is 
+ "The Coming Woman: A ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+
+ The title of the book is 
+ "The Boys in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+
+ The title of the book is 
+ "The Black Maria" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+
+ The title of the book is 
+ "Starving Hearts (Triangular Trade ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+
+ The title of the book is 
+ "Shakespeare's Sonnets" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+
+ The title of the book is 
+ "Set Me Free" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+
+ The title of the book is 
+ "Scott Pilgrim's Precious Little ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+
+ The title of the book is 
+ "Rip it Up and ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+
+ The title of the book is 
+ "Our Band Could Be ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+
+ The title of the book is 
+ "Olio" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/olio_984/index.html 
+
+ The title of the book is 
+ "Mesaerion: The Best Science ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+
+ The title of the book is 
+ "Libertarianism for Beginners" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+
+ The title of the book is 
+ "It's Only the Himalayas" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+
+ The title of the book is 
+ "A Light in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+
+ The title of the book is 
+ "Tipping the Velvet" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+
+ The title of the book is 
+ "Soumission" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/soumission_998/index.html 
+
+ The title of the book is 
+ "Sharp Objects" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+
+ The title of the book is 
+ "Sapiens: A Brief History ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+
+ The title of the book is 
+ "The Requiem Red" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+
+ The title of the book is 
+ "The Dirty Little Secrets ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+
+ The title of the book is 
+ "The Coming Woman: A ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+
+ The title of the book is 
+ "The Boys in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+
+ The title of the book is 
+ "The Black Maria" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+
+ The title of the book is 
+ "Starving Hearts (Triangular Trade ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+
+ The title of the book is 
+ "Shakespeare's Sonnets" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+
+ The title of the book is 
+ "Set Me Free" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+
+ The title of the book is 
+ "Scott Pilgrim's Precious Little ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+
+ The title of the book is 
+ "Rip it Up and ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+
+ The title of the book is 
+ "Our Band Could Be ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+
+ The title of the book is 
+ "Olio" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/olio_984/index.html 
+
+ The title of the book is 
+ "Mesaerion: The Best Science ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+
+ The title of the book is 
+ "Libertarianism for Beginners" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+
+ The title of the book is 
+ "It's Only the Himalayas" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+
+ The title of the book is 
+ "A Light in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+
+ The title of the book is 
+ "Tipping the Velvet" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+
+ The title of the book is 
+ "Soumission" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/soumission_998/index.html 
+
+ The title of the book is 
+ "Sharp Objects" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+
+ The title of the book is 
+ "Sapiens: A Brief History ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+
+ The title of the book is 
+ "The Requiem Red" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+
+ The title of the book is 
+ "The Dirty Little Secrets ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+
+ The title of the book is 
+ "The Coming Woman: A ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+
+ The title of the book is 
+ "The Boys in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+
+ The title of the book is 
+ "The Black Maria" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+
+ The title of the book is 
+ "Starving Hearts (Triangular Trade ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+
+ The title of the book is 
+ "Shakespeare's Sonnets" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+
+ The title of the book is 
+ "Set Me Free" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+
+ The title of the book is 
+ "Scott Pilgrim's Precious Little ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+
+ The title of the book is 
+ "Rip it Up and ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+
+ The title of the book is 
+ "Our Band Could Be ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+
+ The title of the book is 
+ "Olio" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/olio_984/index.html 
+
+ The title of the book is 
+ "Mesaerion: The Best Science ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+
+ The title of the book is 
+ "Libertarianism for Beginners" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+
+ The title of the book is 
+ "It's Only the Himalayas" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+
+ The title of the book is 
+ "A Light in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+
+ The title of the book is 
+ "Tipping the Velvet" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+
+ The title of the book is 
+ "Soumission" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/soumission_998/index.html 
+
+ The title of the book is 
+ "Sharp Objects" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+
+ The title of the book is 
+ "Sapiens: A Brief History ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+
+ The title of the book is 
+ "The Requiem Red" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+
+ The title of the book is 
+ "The Dirty Little Secrets ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+
+ The title of the book is 
+ "The Coming Woman: A ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+
+ The title of the book is 
+ "The Boys in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+
+ The title of the book is 
+ "The Black Maria" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+
+ The title of the book is 
+ "Starving Hearts (Triangular Trade ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+
+ The title of the book is 
+ "Shakespeare's Sonnets" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+
+ The title of the book is 
+ "Set Me Free" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+
+ The title of the book is 
+ "Scott Pilgrim's Precious Little ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+
+ The title of the book is 
+ "Rip it Up and ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+
+ The title of the book is 
+ "Our Band Could Be ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+
+ The title of the book is 
+ "Olio" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/olio_984/index.html 
+
+ The title of the book is 
+ "Mesaerion: The Best Science ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+
+ The title of the book is 
+ "Libertarianism for Beginners" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+
+ The title of the book is 
+ "It's Only the Himalayas" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+
+ The title of the book is 
+ "A Light in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+
+ The title of the book is 
+ "Tipping the Velvet" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+
+ The title of the book is 
+ "Soumission" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/soumission_998/index.html 
+
+ The title of the book is 
+ "Sharp Objects" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+
+ The title of the book is 
+ "Sapiens: A Brief History ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+
+ The title of the book is 
+ "The Requiem Red" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+
+ The title of the book is 
+ "The Dirty Little Secrets ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+
+ The title of the book is 
+ "The Coming Woman: A ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+
+ The title of the book is 
+ "The Boys in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+
+ The title of the book is 
+ "The Black Maria" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+
+ The title of the book is 
+ "Starving Hearts (Triangular Trade ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+
+ The title of the book is 
+ "Shakespeare's Sonnets" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+
+ The title of the book is 
+ "Set Me Free" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+
+ The title of the book is 
+ "Scott Pilgrim's Precious Little ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+
+ The title of the book is 
+ "Rip it Up and ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+
+ The title of the book is 
+ "Our Band Could Be ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+
+ The title of the book is 
+ "Olio" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/olio_984/index.html 
+
+ The title of the book is 
+ "Mesaerion: The Best Science ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+
+ The title of the book is 
+ "Libertarianism for Beginners" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+
+ The title of the book is 
+ "It's Only the Himalayas" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+
+ The title of the book is 
+ "A Light in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+
+ The title of the book is 
+ "Tipping the Velvet" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+
+ The title of the book is 
+ "Soumission" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/soumission_998/index.html 
+
+ The title of the book is 
+ "Sharp Objects" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+
+ The title of the book is 
+ "Sapiens: A Brief History ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+
+ The title of the book is 
+ "The Requiem Red" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+
+ The title of the book is 
+ "The Dirty Little Secrets ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+
+ The title of the book is 
+ "The Coming Woman: A ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+
+ The title of the book is 
+ "The Boys in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+
+ The title of the book is 
+ "The Black Maria" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+
+ The title of the book is 
+ "Starving Hearts (Triangular Trade ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+
+ The title of the book is 
+ "Shakespeare's Sonnets" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+
+ The title of the book is 
+ "Set Me Free" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+
+ The title of the book is 
+ "Scott Pilgrim's Precious Little ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+
+ The title of the book is 
+ "Rip it Up and ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+
+ The title of the book is 
+ "Our Band Could Be ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+
+ The title of the book is 
+ "Olio" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/olio_984/index.html 
+
+ The title of the book is 
+ "Mesaerion: The Best Science ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+
+ The title of the book is 
+ "Libertarianism for Beginners" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+
+ The title of the book is 
+ "It's Only the Himalayas" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+
+ The title of the book is 
+ "A Light in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+
+ The title of the book is 
+ "Tipping the Velvet" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+
+ The title of the book is 
+ "Soumission" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/soumission_998/index.html 
+
+ The title of the book is 
+ "Sharp Objects" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+
+ The title of the book is 
+ "Sapiens: A Brief History ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+
+ The title of the book is 
+ "The Requiem Red" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+
+ The title of the book is 
+ "The Dirty Little Secrets ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+
+ The title of the book is 
+ "The Coming Woman: A ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+
+ The title of the book is 
+ "The Boys in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+
+ The title of the book is 
+ "The Black Maria" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+
+ The title of the book is 
+ "Starving Hearts (Triangular Trade ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+
+ The title of the book is 
+ "Shakespeare's Sonnets" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+
+ The title of the book is 
+ "Set Me Free" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+
+ The title of the book is 
+ "Scott Pilgrim's Precious Little ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+
+ The title of the book is 
+ "Rip it Up and ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+
+ The title of the book is 
+ "Our Band Could Be ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+
+ The title of the book is 
+ "Olio" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/olio_984/index.html 
+
+ The title of the book is 
+ "Mesaerion: The Best Science ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+
+ The title of the book is 
+ "Libertarianism for Beginners" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+
+ The title of the book is 
+ "It's Only the Himalayas" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+
+ The title of the book is 
+ "A Light in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+
+ The title of the book is 
+ "Tipping the Velvet" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+
+ The title of the book is 
+ "Soumission" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/soumission_998/index.html 
+
+ The title of the book is 
+ "Sharp Objects" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+
+ The title of the book is 
+ "Sapiens: A Brief History ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+
+ The title of the book is 
+ "The Requiem Red" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+
+ The title of the book is 
+ "The Dirty Little Secrets ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+
+ The title of the book is 
+ "The Coming Woman: A ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+
+ The title of the book is 
+ "The Boys in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+
+ The title of the book is 
+ "The Black Maria" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+
+ The title of the book is 
+ "Starving Hearts (Triangular Trade ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+
+ The title of the book is 
+ "Shakespeare's Sonnets" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+
+ The title of the book is 
+ "Set Me Free" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+
+ The title of the book is 
+ "Scott Pilgrim's Precious Little ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+
+ The title of the book is 
+ "Rip it Up and ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+
+ The title of the book is 
+ "Our Band Could Be ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+
+ The title of the book is 
+ "Olio" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/olio_984/index.html 
+
+ The title of the book is 
+ "Mesaerion: The Best Science ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+
+ The title of the book is 
+ "Libertarianism for Beginners" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+
+ The title of the book is 
+ "It's Only the Himalayas" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+
+ The title of the book is 
+ "A Light in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+
+ The title of the book is 
+ "Tipping the Velvet" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+
+ The title of the book is 
+ "Soumission" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/soumission_998/index.html 
+
+ The title of the book is 
+ "Sharp Objects" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+
+ The title of the book is 
+ "Sapiens: A Brief History ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+
+ The title of the book is 
+ "The Requiem Red" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+
+ The title of the book is 
+ "The Dirty Little Secrets ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+
+ The title of the book is 
+ "The Coming Woman: A ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+
+ The title of the book is 
+ "The Boys in the ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+
+ The title of the book is 
+ "The Black Maria" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+
+ The title of the book is 
+ "Starving Hearts (Triangular Trade ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+
+ The title of the book is 
+ "Shakespeare's Sonnets" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+
+ The title of the book is 
+ "Set Me Free" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+
+ The title of the book is 
+ "Scott Pilgrim's Precious Little ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+
+ The title of the book is 
+ "Rip it Up and ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+
+ The title of the book is 
+ "Our Band Could Be ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+
+ The title of the book is 
+ "Olio" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/olio_984/index.html 
+
+ The title of the book is 
+ "Mesaerion: The Best Science ..." 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+
+ The title of the book is 
+ "Libertarianism for Beginners" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+
+ The title of the book is 
+ "It's Only the Himalayas" 
+ while the link to the book is: 
+ http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 

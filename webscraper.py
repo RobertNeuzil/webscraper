@@ -10,9 +10,13 @@ source = requests.get(f'http://books.toscrape.com/catalogue/page-{x}.html').text
 
 soup = BeautifulSoup(source, 'lxml')
 
-while x <= 5:
+while x <= 20:
 	for display in soup.find_all(class_='product_pod'):
 		link = display.a.get('href')
-		print (f'The title of the book is \n "{display.h3.a.text}" \n while the link to the book is: \n http://books.toscrape.com/catalogue/{link} \n')
+		
+		f = open('webscraper.txt','a')
+		f.write(f'\n The title of the book is \n "{display.h3.a.text}" \n while the link to the book is: \n http://books.toscrape.com/catalogue/{link} \n')
+		f.close()
+		#print (f'The title of the book is \n "{display.h3.a.text}" \n while the link to the book is: \n http://books.toscrape.com/catalogue/{link} \n')
 	x += 1
 
